@@ -8,4 +8,5 @@ Colab File Link: https://colab.research.google.com/drive/1RLBSmYgvWdWezCxetDHjSW
 
 Milestone 1 Video Link (With Bonus related to ASR): https://drive.google.com/drive/folders/1-UxYFZLmrMRh7Bn6wY3gCm7gWG7Nsa9b?usp=sharing
 
+Milestone 2 Video Link : https://drive.google.com/file/d/1QRHfFxo1r39glF2EMS6LLBWag_2iKxht/view?usp=sharing
 
