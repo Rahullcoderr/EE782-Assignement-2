@@ -1,8 +1,7 @@
 # AI Room Guard
 ## EE782 Assignment 2
 ### Rahul B (22b3976) 
-My teammate Jaswant S(22b1299) dropped the course on the last date of dropping deadline so I came to know only after that and I couldn't find a new teammate. So I had to do the full assignment by myself.
-I have done all milestones completely only testing with different scenarios is remaining. I will do it before Friday.
+My teammate Jaswant S(22b1299) dropped the course on the last date of dropping deadline so I came to know only after that and I couldn't find a new teammate. So I had to do the full assignment by myself. I have also done some extra parts for bonus which I will explain in documentation. Please consider for bonus. If any specific test case or something is missing please let me know I ll do that. Thanks.
 
 Colab File Link: https://colab.research.google.com/drive/1RLBSmYgvWdWezCxetDHjSWCUPKBbILs9?usp=sharing
 
@@ -21,3 +20,4 @@ Test Case 3: https://drive.google.com/file/d/1jO0JsMiAMGOkLoDGRd9hyrzAMoVQVzvY/v
 
 All the videos can be found in this link:
 https://drive.google.com/drive/folders/1-UxYFZLmrMRh7Bn6wY3gCm7gWG7Nsa9b?usp=sharing
+
