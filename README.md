@@ -5,3 +5,7 @@ My teammate Jaswant S(22b1299) dropped the course on the last date of dropping d
 I have done all milestones completely only testing with different scenarios is remaining. I will do it before Friday.
 
 Colab File Link: https://colab.research.google.com/drive/1RLBSmYgvWdWezCxetDHjSWCUPKBbILs9?usp=sharing
+
+Milestone 1 Video Link (With Bonus related to ASR): https://drive.google.com/drive/folders/1-UxYFZLmrMRh7Bn6wY3gCm7gWG7Nsa9b?usp=sharing
+
+
